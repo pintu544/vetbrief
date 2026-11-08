@@ -5,3 +5,5 @@ dist/
 agent-wallet-key.txt
 receipts/trial-ledger.json
 .DS_Store
+.vercel
+.env*
